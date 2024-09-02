@@ -4,6 +4,8 @@ A Cloudflare Worker Github OAuth proxy for [Decap CMS](https://github.com/decapo
 
 This proxy is intended to be deployed on its own subdomain, separate from whatever website domain you're using Decap with.
 
+🔖 **Credits:** This project is originally forked from [Decap Proxy by sterlingwes](https://github.com/sterlingwes/decap-proxy).
+
 ## Getting Started
 
 ### Create a Github OAuth App
